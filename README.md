@@ -5,10 +5,9 @@
 I'm a Software Engineer specializing in AI/ML systems, Security Engineering, and Full-Stack Development. I build autonomous agents, security testing tools, and innovative web applications.
 
 ## 🤖 AI & Machine Learning
-- **AutoAgent2**: Autonomous development agent powered by Claude 3.5 for intelligent code generation and system operations
-- **Neural-Network**: Custom implementations of neural networks and self-learning AI systems
-- **LangGraph Projects**: Advanced agent orchestration using LangChain and LangGraph frameworks
 - **Coding-Agent**: AI-powered coding assistant with automated testing and debugging capabilities
+- **Self-Prompting**: AI-powered multi-agent research system with advanced CoT reasoning and experimental / innovative cross-domain research.
+
 
 ## 🛡️ Security Engineering
 - **Shodan-Tool**: Comprehensive security testing platform with:
@@ -29,14 +28,14 @@ I'm a Software Engineer specializing in AI/ML systems, Security Engineering, and
 
 ## 🔧 Technical Skills
 ```
-AI/ML         │ Security        │ Web Development
+AI/ML         │ Security       │ Web Development
 ──────────────┼────────────────┼─────────────────
 LangChain     │ Penetration    │ TypeScript/React
-Neural Nets   │ Testing        │ Python/Flask
-Claude/GPT-4  │ Network        │ Node.js
-Autonomous    │ Security       │ Full-Stack
-Agents        │ System         │ Development
-              │ Hardening      │
+Neural Nets   │ -Testing       │ Python/Flask
+Claude/Gemini │ Network        │ Node.js
+Autonomous    │  -Security     │ Full-Stack
+-Systems      │ System         │ Development
+UI-Automation │ -Hardening     │ ReactJS
 ```
 
 ## 🌟 Featured Projects
