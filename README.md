@@ -43,8 +43,8 @@ UI-Automation │ -Hardening     │ ReactJS
 - [Selena Oracle](https://github.com/kinzozi/selena-oracle) - Modern full-stack application
 - [CollaborativeAI](https://github.com/kinzozi/collaborativeAI) - A self-prompting, multi-agent research system
 
-## 📈 GitHub Stats
-![kinzozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinzozi&show_icons=true&theme=dark)
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinzozi&layout=compact&theme=dark)
 
 ## 🤝 Connect With Me
 - Personal Website: [kinzozi.github.io](https://kinzozi.github.io)
